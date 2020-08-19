@@ -1,0 +1,12 @@
+send this message when the !help command is used
+
+the commands are
+
+- Home
+[Use this command to let me know what channel on the server I can start archiving images and embeds!]
+- Archive
+[This command is used when you send an image with a particular message attachment that I'll save in the archive channel. The message that you attach to the image should be a minimal description with a few key words to make it easier to pull up when you need it!]
+- Load
+[Load is the command you'll use before entering your keywords to pull up images in any given channel on the server!]
+- Help
+[This command is here to help you better understand me and what I do! However, since your probably reading this right now I'm sure you already know that!]

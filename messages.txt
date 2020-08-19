@@ -1,0 +1,5 @@
+say random things when you archive images
+chooses random messages
+tags:
+if tags are included when you archive, include this text sometimes
+everything under the tags: is included in the pool of randomly selected messages, until the next tag
